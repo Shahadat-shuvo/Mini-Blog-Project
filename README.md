@@ -1,8 +1,6 @@
 # Mini-Blog-Project
 
-The Miniblog project is a web-based application designed to allow users to create and share short posts with others. 
-The main goal of the project is to provide an easy-to-use platform where users can express their ideas, share their experiences, 
-and connect with others who have similar interests.
+The Miniblog project is a web-based application designed to allow users to create and share short posts with others. The main goal of the project is to provide an easy-to-use platform where users can express their ideas, share their experiences, and connect with others who have similar interests.
 
 The application will be developed using web technologies such as HTML, CSS, and JavaScript for the frontend, and Python with Django framework for the backend. 
 The application will also utilize a database such as SQLite3 to store user data and post information.
@@ -11,12 +9,40 @@ The project will have the following features:
 
 1. User Registration and Login: Users can create a new account by registering with their name, email, and password. They can then login to the application using their credentials.
 
-https://user-images.githubusercontent.com/79735371/222536778-2f5295c2-f1ec-4dde-8996-88c06f42c371.png
+**Registration Page**
+
+![Screenshot (275)](https://user-images.githubusercontent.com/79735371/222537345-5d381d32-80c1-4fef-b774-43cf8c157448.png)
+
+**Login Page**
+
+![Screenshot (280)](https://user-images.githubusercontent.com/79735371/222539018-a4ab2506-b690-4755-9513-62306f102b24.png)
 
 2. Create and Edit Posts: Users can create new posts by entering a title and a short description of their post. They can also edit and delete their existing posts.
 
-3. User Profile: Users can view their own profile, which will display their posts, followers, and following.
+**Add Post**
 
-4. Only Authenticated user can see dashboard and can find logout option, others have to signup first
+![Screenshot (269)](https://user-images.githubusercontent.com/79735371/222540332-e21ae0cc-fc43-46e4-9d11-4b3d3f4a5ffb.png)
+
+**Update Post**
+
+![Screenshot (282)](https://user-images.githubusercontent.com/79735371/222540656-b35380c9-1201-42ad-9d26-e82f7d3fe4f8.png)
+
+3. User Profile: Users can view their own profile.
+
+**Dashboard**
+
+![Screenshot (277)](https://user-images.githubusercontent.com/79735371/222540884-a6cdd571-2be7-4fa3-a1e3-f0f2e8e26d34.png)
+
+
+
+4. Only Authenticated user can see dashboard and can find logout option, others have to signup first.
+
+**Without Registratio or Login**
+
+![Screenshot (273)](https://user-images.githubusercontent.com/79735371/222541281-d225dde8-f9e2-49d1-ac74-eef48c24a56f.png)
+
+**After Login**
+
+![Screenshot (274)](https://user-images.githubusercontent.com/79735371/222541415-7d40cb12-ce7c-49cc-8094-37edeea9d88a.png)
 
 The Miniblog project will provide a simple and intuitive platform for users to express their thoughts and connect with others. The project can also be extended with additional features such as direct messaging, advanced search, and user analytics.
