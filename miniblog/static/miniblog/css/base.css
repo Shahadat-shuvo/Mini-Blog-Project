@@ -1,0 +1,37 @@
+
+html,
+body {
+    background-color: rgb(75, 74, 74);
+    color: antiquewhite;
+    height: 100%;
+}
+.image-card{
+    width: 30%;
+}
+/* .container-fluid {
+    min-height: 100%;
+} */
+
+/* Service Icon color */
+
+.i-colo {
+    color: #746f6f;
+
+}
+.colo:hover {
+    color: #e6e6e6;
+}
+.hide {
+    display: none;
+  }
+      
+.myDIV:hover + .hide {
+    display: block;
+    color: rgb(195, 197, 71);
+  }
+
+/* Service Subtitle Color */
+
+.ss-color {
+    color: silver;
+}

@@ -1,0 +1,25 @@
+{% extends 'miniblog/base.html' %}
+{% load static %}
+
+{% block title %}
+Add 
+{% endblock title %}
+
+
+{% block content %}
+<div>
+    <h2 class="text-light my-5"> Update Page</h2>
+</div>
+<div class="col-sm-10" >
+    <form action="" method="POST" novalidate>
+        {% csrf_token %}
+        {% for frm in form %}
+        <div class="form-group">
+            {{frm.label_tag}} {{frm}} <small class="text-warning">{{frm.errors|striptags}}</small>
+        </div>
+        {% endfor %}
+        <input type="submit" value="Update" class="btn btn-info" >
+       
+    </form>
+</div>
+{% endblock content %}
