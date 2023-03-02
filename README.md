@@ -37,7 +37,7 @@ The application will also utilize a database such as SQLite3 to store user data 
 
 4. Only Authenticated user can see dashboard and can find logout option, others have to signup first.
 
-**Without Registratio or Login**
+**Without Registration or Login**
 
 ![Screenshot (273)](https://user-images.githubusercontent.com/79735371/222541281-d225dde8-f9e2-49d1-ac74-eef48c24a56f.png)
 
@@ -45,4 +45,4 @@ The application will also utilize a database such as SQLite3 to store user data 
 
 ![Screenshot (274)](https://user-images.githubusercontent.com/79735371/222541415-7d40cb12-ce7c-49cc-8094-37edeea9d88a.png)
 
-This project is for learning purpose which is mainly based on CRUD and user authentication operations.  
+This project is for learning purpose which is mainly based on CRUD and user authentication operations. The main goal of this project is authenticated user can create, edit, delete post.
