@@ -11,6 +11,8 @@ The project will have the following features:
 
 1. User Registration and Login: Users can create a new account by registering with their name, email, and password. They can then login to the application using their credentials.
 
+https://user-images.githubusercontent.com/79735371/222536778-2f5295c2-f1ec-4dde-8996-88c06f42c371.png
+
 2. Create and Edit Posts: Users can create new posts by entering a title and a short description of their post. They can also edit and delete their existing posts.
 
 3. User Profile: Users can view their own profile, which will display their posts, followers, and following.
