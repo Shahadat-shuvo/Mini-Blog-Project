@@ -5,9 +5,9 @@ The Miniblog project is a web-based application designed to allow users to creat
 The application will be developed using web technologies such as HTML, CSS, and JavaScript for the frontend, and Python with Django framework for the backend. 
 The application will also utilize a database such as SQLite3 to store user data and post information.
 
-The project will have the following features:
+**The project will have the following features:**
 
-1. User Registration and Login: Users can create a new account by registering with their name, email, and password. They can then login to the application using their credentials.
+1. **User Registration and Login:** Users can create a new account by registering with their name, email, and password. They can then login to the application using their credentials.
 
 **Registration Page**
 
@@ -17,11 +17,11 @@ The project will have the following features:
 
 ![Screenshot (280)](https://user-images.githubusercontent.com/79735371/222539018-a4ab2506-b690-4755-9513-62306f102b24.png)
 
-2. Create and Edit Posts: Users can create new posts by entering a title and a short description of their post. They can also edit and delete their existing posts.
+2. **Create and Edit Posts:** Users can create new posts by entering a title and a short description of their post. They can also edit and delete their existing posts.
 
 **Add Post**
 
-![Screenshot (269)](https://user-images.githubusercontent.com/79735371/222540332-e21ae0cc-fc43-46e4-9d11-4b3d3f4a5ffb.png)
+![Screenshot (276)](https://user-images.githubusercontent.com/79735371/222543328-f7187f78-a1a4-4180-8868-f4f383bcd488.png)
 
 **Update Post**
 
@@ -45,4 +45,4 @@ The project will have the following features:
 
 ![Screenshot (274)](https://user-images.githubusercontent.com/79735371/222541415-7d40cb12-ce7c-49cc-8094-37edeea9d88a.png)
 
-The Miniblog project will provide a simple and intuitive platform for users to express their thoughts and connect with others. The project can also be extended with additional features such as direct messaging, advanced search, and user analytics.
+This project is for learning purpose which is mainly based on CRUD and user authentication operations.  
